@@ -6,10 +6,10 @@ from PIL import Image
 from tqdm import tqdm
 
 # ==== CONFIG ====
-CROP_DIR = "crops"  # contains 'broadcast/' and 'tacticam/' folders
-OUTPUT_DIR = "features"  # will store .npy files
+CROP_DIR = "crops"  
+OUTPUT_DIR = "features"  
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
-IMAGE_SIZE = 224  # must match crop size
+IMAGE_SIZE = 224  
 
 # ==== PREPROCESSING ====
 preprocess = transforms.Compose([
