@@ -1,0 +1,566 @@
+{
+  "frame_0000_obj_00.jpg": {
+    "matched_with": "frame_0005_obj_10.jpg",
+    "similarity": 0.8469451665878296
+  },
+  "frame_0000_obj_01.jpg": {
+    "matched_with": "frame_0005_obj_00.jpg",
+    "similarity": 0.8482798337936401
+  },
+  "frame_0000_obj_02.jpg": {
+    "matched_with": "frame_0005_obj_02.jpg",
+    "similarity": 0.9017279148101807
+  },
+  "frame_0000_obj_03.jpg": {
+    "matched_with": "frame_0005_obj_02.jpg",
+    "similarity": 0.8452817797660828
+  },
+  "frame_0000_obj_04.jpg": {
+    "matched_with": "frame_0005_obj_05.jpg",
+    "similarity": 0.8807493448257446
+  },
+  "frame_0000_obj_05.jpg": {
+    "matched_with": "frame_0005_obj_10.jpg",
+    "similarity": 0.8590830564498901
+  },
+  "frame_0000_obj_06.jpg": {
+    "matched_with": "frame_0005_obj_00.jpg",
+    "similarity": 0.8625237941741943
+  },
+  "frame_0000_obj_07.jpg": {
+    "matched_with": "frame_0005_obj_00.jpg",
+    "similarity": 0.8355278372764587
+  },
+  "frame_0000_obj_08.jpg": {
+    "matched_with": "frame_0005_obj_02.jpg",
+    "similarity": 0.8253298997879028
+  },
+  "frame_0000_obj_09.jpg": {
+    "matched_with": "frame_0005_obj_03.jpg",
+    "similarity": 0.8545687198638916
+  },
+  "frame_0000_obj_10.jpg": {
+    "matched_with": "frame_0005_obj_01.jpg",
+    "similarity": 0.8260109424591064
+  },
+  "frame_0000_obj_11.jpg": {
+    "matched_with": "frame_0005_obj_10.jpg",
+    "similarity": 0.8676877021789551
+  },
+  "frame_0000_obj_12.jpg": {
+    "matched_with": "frame_0005_obj_08.jpg",
+    "similarity": 0.8319763541221619
+  },
+  "frame_0000_obj_13.jpg": {
+    "matched_with": null,
+    "similarity": 0.7875218987464905
+  },
+  "frame_0000_obj_14.jpg": {
+    "matched_with": "frame_0005_obj_09.jpg",
+    "similarity": 0.8502190113067627
+  },
+  "frame_0000_obj_15.jpg": {
+    "matched_with": "frame_0005_obj_02.jpg",
+    "similarity": 0.8834751844406128
+  },
+  "frame_0000_obj_16.jpg": {
+    "matched_with": "frame_0005_obj_09.jpg",
+    "similarity": 0.8714597225189209
+  },
+  "frame_0000_obj_17.jpg": {
+    "matched_with": "frame_0005_obj_05.jpg",
+    "similarity": 0.8438219428062439
+  },
+  "frame_0000_obj_18.jpg": {
+    "matched_with": "frame_0005_obj_01.jpg",
+    "similarity": 0.8454265594482422
+  },
+  "frame_0000_obj_19.jpg": {
+    "matched_with": "frame_0005_obj_02.jpg",
+    "similarity": 0.834341287612915
+  },
+  "frame_0000_obj_20.jpg": {
+    "matched_with": "frame_0005_obj_12.jpg",
+    "similarity": 0.8942081332206726
+  },
+  "frame_0000_obj_21.jpg": {
+    "matched_with": null,
+    "similarity": 0.7918664216995239
+  },
+  "frame_0000_obj_22.jpg": {
+    "matched_with": null,
+    "similarity": 0.7793987989425659
+  },
+  "frame_0000_obj_23.jpg": {
+    "matched_with": null,
+    "similarity": 0.7851577997207642
+  },
+  "frame_0001_obj_00.jpg": {
+    "matched_with": "frame_0005_obj_06.jpg",
+    "similarity": 0.8744899034500122
+  },
+  "frame_0001_obj_01.jpg": {
+    "matched_with": "frame_0005_obj_10.jpg",
+    "similarity": 0.8401933312416077
+  },
+  "frame_0001_obj_02.jpg": {
+    "matched_with": null,
+    "similarity": 0.7827135324478149
+  },
+  "frame_0001_obj_03.jpg": {
+    "matched_with": "frame_0005_obj_10.jpg",
+    "similarity": 0.8404075503349304
+  },
+  "frame_0001_obj_04.jpg": {
+    "matched_with": "frame_0005_obj_00.jpg",
+    "similarity": 0.8633247017860413
+  },
+  "frame_0001_obj_05.jpg": {
+    "matched_with": "frame_0005_obj_10.jpg",
+    "similarity": 0.8707683682441711
+  },
+  "frame_0001_obj_06.jpg": {
+    "matched_with": "frame_0005_obj_02.jpg",
+    "similarity": 0.8842058777809143
+  },
+  "frame_0001_obj_07.jpg": {
+    "matched_with": "frame_0005_obj_02.jpg",
+    "similarity": 0.8492385149002075
+  },
+  "frame_0001_obj_08.jpg": {
+    "matched_with": "frame_0005_obj_02.jpg",
+    "similarity": 0.8626632690429688
+  },
+  "frame_0001_obj_09.jpg": {
+    "matched_with": "frame_0005_obj_00.jpg",
+    "similarity": 0.8566752672195435
+  },
+  "frame_0001_obj_10.jpg": {
+    "matched_with": "frame_0005_obj_10.jpg",
+    "similarity": 0.8893943428993225
+  },
+  "frame_0001_obj_11.jpg": {
+    "matched_with": "frame_0005_obj_01.jpg",
+    "similarity": 0.8736459016799927
+  },
+  "frame_0001_obj_12.jpg": {
+    "matched_with": "frame_0005_obj_03.jpg",
+    "similarity": 0.8653866052627563
+  },
+  "frame_0001_obj_13.jpg": {
+    "matched_with": "frame_0005_obj_10.jpg",
+    "similarity": 0.8647196292877197
+  },
+  "frame_0001_obj_14.jpg": {
+    "matched_with": "frame_0005_obj_05.jpg",
+    "similarity": 0.8494753241539001
+  },
+  "frame_0001_obj_15.jpg": {
+    "matched_with": "frame_0005_obj_01.jpg",
+    "similarity": 0.8055588006973267
+  },
+  "frame_0001_obj_16.jpg": {
+    "matched_with": "frame_0005_obj_03.jpg",
+    "similarity": 0.8162269592285156
+  },
+  "frame_0001_obj_17.jpg": {
+    "matched_with": "frame_0005_obj_10.jpg",
+    "similarity": 0.8391468524932861
+  },
+  "frame_0001_obj_18.jpg": {
+    "matched_with": null,
+    "similarity": 0.79790198802948
+  },
+  "frame_0001_obj_19.jpg": {
+    "matched_with": null,
+    "similarity": 0.7421261668205261
+  },
+  "frame_0001_obj_20.jpg": {
+    "matched_with": "frame_0005_obj_12.jpg",
+    "similarity": 0.9019335508346558
+  },
+  "frame_0001_obj_21.jpg": {
+    "matched_with": "frame_0005_obj_01.jpg",
+    "similarity": 0.8064688444137573
+  },
+  "frame_0001_obj_22.jpg": {
+    "matched_with": null,
+    "similarity": 0.7923229336738586
+  },
+  "frame_0001_obj_23.jpg": {
+    "matched_with": null,
+    "similarity": 0.7777272462844849
+  },
+  "frame_0002_obj_00.jpg": {
+    "matched_with": null,
+    "similarity": 0.7858690619468689
+  },
+  "frame_0002_obj_01.jpg": {
+    "matched_with": "frame_0005_obj_10.jpg",
+    "similarity": 0.8435853719711304
+  },
+  "frame_0002_obj_02.jpg": {
+    "matched_with": "frame_0005_obj_00.jpg",
+    "similarity": 0.8917389512062073
+  },
+  "frame_0002_obj_03.jpg": {
+    "matched_with": "frame_0005_obj_00.jpg",
+    "similarity": 0.890489399433136
+  },
+  "frame_0002_obj_04.jpg": {
+    "matched_with": "frame_0005_obj_10.jpg",
+    "similarity": 0.8617660999298096
+  },
+  "frame_0002_obj_05.jpg": {
+    "matched_with": "frame_0005_obj_00.jpg",
+    "similarity": 0.8462002277374268
+  },
+  "frame_0002_obj_06.jpg": {
+    "matched_with": "frame_0005_obj_10.jpg",
+    "similarity": 0.9024057388305664
+  },
+  "frame_0002_obj_07.jpg": {
+    "matched_with": "frame_0005_obj_03.jpg",
+    "similarity": 0.9035863876342773
+  },
+  "frame_0002_obj_08.jpg": {
+    "matched_with": "frame_0005_obj_09.jpg",
+    "similarity": 0.8449299335479736
+  },
+  "frame_0002_obj_09.jpg": {
+    "matched_with": "frame_0005_obj_01.jpg",
+    "similarity": 0.8227190971374512
+  },
+  "frame_0002_obj_10.jpg": {
+    "matched_with": "frame_0005_obj_10.jpg",
+    "similarity": 0.8457441329956055
+  },
+  "frame_0002_obj_11.jpg": {
+    "matched_with": "frame_0005_obj_02.jpg",
+    "similarity": 0.899689257144928
+  },
+  "frame_0002_obj_12.jpg": {
+    "matched_with": "frame_0005_obj_10.jpg",
+    "similarity": 0.8831242322921753
+  },
+  "frame_0002_obj_13.jpg": {
+    "matched_with": "frame_0005_obj_02.jpg",
+    "similarity": 0.8210759162902832
+  },
+  "frame_0002_obj_14.jpg": {
+    "matched_with": "frame_0005_obj_03.jpg",
+    "similarity": 0.8065621852874756
+  },
+  "frame_0002_obj_15.jpg": {
+    "matched_with": "frame_0005_obj_00.jpg",
+    "similarity": 0.8352439403533936
+  },
+  "frame_0002_obj_16.jpg": {
+    "matched_with": null,
+    "similarity": 0.7905082106590271
+  },
+  "frame_0002_obj_17.jpg": {
+    "matched_with": "frame_0005_obj_10.jpg",
+    "similarity": 0.8602933883666992
+  },
+  "frame_0002_obj_18.jpg": {
+    "matched_with": "frame_0005_obj_00.jpg",
+    "similarity": 0.8285127878189087
+  },
+  "frame_0002_obj_19.jpg": {
+    "matched_with": null,
+    "similarity": 0.7709587812423706
+  },
+  "frame_0002_obj_20.jpg": {
+    "matched_with": "frame_0005_obj_02.jpg",
+    "similarity": 0.8056124448776245
+  },
+  "frame_0002_obj_21.jpg": {
+    "matched_with": "frame_0005_obj_06.jpg",
+    "similarity": 0.8074809908866882
+  },
+  "frame_0002_obj_22.jpg": {
+    "matched_with": "frame_0005_obj_12.jpg",
+    "similarity": 0.8683010339736938
+  },
+  "frame_0003_obj_00.jpg": {
+    "matched_with": null,
+    "similarity": 0.7897483110427856
+  },
+  "frame_0003_obj_01.jpg": {
+    "matched_with": "frame_0005_obj_00.jpg",
+    "similarity": 0.8833416700363159
+  },
+  "frame_0003_obj_02.jpg": {
+    "matched_with": "frame_0005_obj_10.jpg",
+    "similarity": 0.8867957592010498
+  },
+  "frame_0003_obj_03.jpg": {
+    "matched_with": "frame_0005_obj_00.jpg",
+    "similarity": 0.8764885663986206
+  },
+  "frame_0003_obj_04.jpg": {
+    "matched_with": "frame_0005_obj_01.jpg",
+    "similarity": 0.8413968086242676
+  },
+  "frame_0003_obj_05.jpg": {
+    "matched_with": "frame_0005_obj_10.jpg",
+    "similarity": 0.8444915413856506
+  },
+  "frame_0003_obj_06.jpg": {
+    "matched_with": "frame_0005_obj_03.jpg",
+    "similarity": 0.8838633894920349
+  },
+  "frame_0003_obj_07.jpg": {
+    "matched_with": "frame_0005_obj_10.jpg",
+    "similarity": 0.8695943355560303
+  },
+  "frame_0003_obj_08.jpg": {
+    "matched_with": "frame_0005_obj_10.jpg",
+    "similarity": 0.8432559967041016
+  },
+  "frame_0003_obj_09.jpg": {
+    "matched_with": "frame_0005_obj_10.jpg",
+    "similarity": 0.8805739283561707
+  },
+  "frame_0003_obj_10.jpg": {
+    "matched_with": "frame_0005_obj_02.jpg",
+    "similarity": 0.8482307195663452
+  },
+  "frame_0003_obj_11.jpg": {
+    "matched_with": "frame_0005_obj_06.jpg",
+    "similarity": 0.8607306480407715
+  },
+  "frame_0003_obj_12.jpg": {
+    "matched_with": "frame_0005_obj_10.jpg",
+    "similarity": 0.8935962319374084
+  },
+  "frame_0003_obj_13.jpg": {
+    "matched_with": "frame_0005_obj_01.jpg",
+    "similarity": 0.8500778675079346
+  },
+  "frame_0003_obj_14.jpg": {
+    "matched_with": "frame_0005_obj_10.jpg",
+    "similarity": 0.8891158103942871
+  },
+  "frame_0003_obj_15.jpg": {
+    "matched_with": "frame_0005_obj_00.jpg",
+    "similarity": 0.8051143884658813
+  },
+  "frame_0003_obj_16.jpg": {
+    "matched_with": "frame_0005_obj_10.jpg",
+    "similarity": 0.8035768866539001
+  },
+  "frame_0003_obj_17.jpg": {
+    "matched_with": "frame_0005_obj_06.jpg",
+    "similarity": 0.8256560564041138
+  },
+  "frame_0003_obj_18.jpg": {
+    "matched_with": "frame_0005_obj_05.jpg",
+    "similarity": 0.8396424651145935
+  },
+  "frame_0003_obj_19.jpg": {
+    "matched_with": null,
+    "similarity": 0.7822040915489197
+  },
+  "frame_0003_obj_20.jpg": {
+    "matched_with": "frame_0005_obj_06.jpg",
+    "similarity": 0.8511385917663574
+  },
+  "frame_0003_obj_21.jpg": {
+    "matched_with": "frame_0005_obj_12.jpg",
+    "similarity": 0.880419135093689
+  },
+  "frame_0004_obj_00.jpg": {
+    "matched_with": "frame_0005_obj_00.jpg",
+    "similarity": 0.8993686437606812
+  },
+  "frame_0004_obj_01.jpg": {
+    "matched_with": "frame_0005_obj_10.jpg",
+    "similarity": 0.8794286847114563
+  },
+  "frame_0004_obj_02.jpg": {
+    "matched_with": "frame_0005_obj_06.jpg",
+    "similarity": 0.8580080270767212
+  },
+  "frame_0004_obj_03.jpg": {
+    "matched_with": "frame_0005_obj_10.jpg",
+    "similarity": 0.8680339455604553
+  },
+  "frame_0004_obj_04.jpg": {
+    "matched_with": "frame_0005_obj_10.jpg",
+    "similarity": 0.8349153995513916
+  },
+  "frame_0004_obj_05.jpg": {
+    "matched_with": "frame_0005_obj_03.jpg",
+    "similarity": 0.8784689903259277
+  },
+  "frame_0004_obj_06.jpg": {
+    "matched_with": "frame_0005_obj_10.jpg",
+    "similarity": 0.8813800811767578
+  },
+  "frame_0004_obj_07.jpg": {
+    "matched_with": "frame_0005_obj_05.jpg",
+    "similarity": 0.8937374949455261
+  },
+  "frame_0004_obj_08.jpg": {
+    "matched_with": "frame_0005_obj_02.jpg",
+    "similarity": 0.8659669756889343
+  },
+  "frame_0004_obj_09.jpg": {
+    "matched_with": "frame_0005_obj_00.jpg",
+    "similarity": 0.8837571740150452
+  },
+  "frame_0004_obj_10.jpg": {
+    "matched_with": "frame_0005_obj_00.jpg",
+    "similarity": 0.8544390797615051
+  },
+  "frame_0004_obj_11.jpg": {
+    "matched_with": "frame_0005_obj_10.jpg",
+    "similarity": 0.8210524916648865
+  },
+  "frame_0004_obj_12.jpg": {
+    "matched_with": "frame_0005_obj_03.jpg",
+    "similarity": 0.8176074028015137
+  },
+  "frame_0004_obj_13.jpg": {
+    "matched_with": "frame_0005_obj_00.jpg",
+    "similarity": 0.8161602020263672
+  },
+  "frame_0004_obj_14.jpg": {
+    "matched_with": "frame_0005_obj_02.jpg",
+    "similarity": 0.8334032297134399
+  },
+  "frame_0004_obj_15.jpg": {
+    "matched_with": "frame_0005_obj_10.jpg",
+    "similarity": 0.8538464307785034
+  },
+  "frame_0004_obj_16.jpg": {
+    "matched_with": "frame_0005_obj_10.jpg",
+    "similarity": 0.8884451389312744
+  },
+  "frame_0004_obj_17.jpg": {
+    "matched_with": "frame_0005_obj_05.jpg",
+    "similarity": 0.836947500705719
+  },
+  "frame_0004_obj_18.jpg": {
+    "matched_with": "frame_0005_obj_10.jpg",
+    "similarity": 0.8052893280982971
+  },
+  "frame_0004_obj_19.jpg": {
+    "matched_with": "frame_0005_obj_06.jpg",
+    "similarity": 0.8241190314292908
+  },
+  "frame_0004_obj_20.jpg": {
+    "matched_with": null,
+    "similarity": 0.7998749613761902
+  },
+  "frame_0004_obj_21.jpg": {
+    "matched_with": null,
+    "similarity": 0.7900552153587341
+  },
+  "frame_0004_obj_22.jpg": {
+    "matched_with": "frame_0005_obj_12.jpg",
+    "similarity": 0.8786113858222961
+  },
+  "frame_0004_obj_23.jpg": {
+    "matched_with": null,
+    "similarity": 0.691016435623169
+  },
+  "frame_0005_obj_00.jpg": {
+    "matched_with": "frame_0005_obj_10.jpg",
+    "similarity": 0.8615655303001404
+  },
+  "frame_0005_obj_01.jpg": {
+    "matched_with": "frame_0005_obj_00.jpg",
+    "similarity": 0.865824818611145
+  },
+  "frame_0005_obj_02.jpg": {
+    "matched_with": "frame_0005_obj_03.jpg",
+    "similarity": 0.8810229301452637
+  },
+  "frame_0005_obj_03.jpg": {
+    "matched_with": "frame_0005_obj_03.jpg",
+    "similarity": 0.8897817134857178
+  },
+  "frame_0005_obj_04.jpg": {
+    "matched_with": "frame_0005_obj_10.jpg",
+    "similarity": 0.8570296168327332
+  },
+  "frame_0005_obj_05.jpg": {
+    "matched_with": "frame_0005_obj_10.jpg",
+    "similarity": 0.865314245223999
+  },
+  "frame_0005_obj_06.jpg": {
+    "matched_with": "frame_0005_obj_10.jpg",
+    "similarity": 0.8716419339179993
+  },
+  "frame_0005_obj_07.jpg": {
+    "matched_with": "frame_0005_obj_05.jpg",
+    "similarity": 0.8384847044944763
+  },
+  "frame_0005_obj_08.jpg": {
+    "matched_with": "frame_0005_obj_03.jpg",
+    "similarity": 0.8229448199272156
+  },
+  "frame_0005_obj_09.jpg": {
+    "matched_with": "frame_0005_obj_00.jpg",
+    "similarity": 0.8890807628631592
+  },
+  "frame_0005_obj_10.jpg": {
+    "matched_with": "frame_0005_obj_05.jpg",
+    "similarity": 0.8923794031143188
+  },
+  "frame_0005_obj_11.jpg": {
+    "matched_with": "frame_0005_obj_01.jpg",
+    "similarity": 0.8262209296226501
+  },
+  "frame_0005_obj_12.jpg": {
+    "matched_with": "frame_0005_obj_09.jpg",
+    "similarity": 0.8554791212081909
+  },
+  "frame_0005_obj_13.jpg": {
+    "matched_with": "frame_0005_obj_10.jpg",
+    "similarity": 0.8815299272537231
+  },
+  "frame_0005_obj_14.jpg": {
+    "matched_with": null,
+    "similarity": 0.7843653559684753
+  },
+  "frame_0005_obj_15.jpg": {
+    "matched_with": "frame_0005_obj_10.jpg",
+    "similarity": 0.8339725732803345
+  },
+  "frame_0005_obj_16.jpg": {
+    "matched_with": "frame_0005_obj_02.jpg",
+    "similarity": 0.8204764127731323
+  },
+  "frame_0005_obj_17.jpg": {
+    "matched_with": "frame_0005_obj_10.jpg",
+    "similarity": 0.805996298789978
+  },
+  "frame_0005_obj_18.jpg": {
+    "matched_with": "frame_0005_obj_03.jpg",
+    "similarity": 0.8498048782348633
+  },
+  "frame_0005_obj_19.jpg": {
+    "matched_with": "frame_0005_obj_10.jpg",
+    "similarity": 0.9045622944831848
+  },
+  "frame_0005_obj_20.jpg": {
+    "matched_with": null,
+    "similarity": 0.7988812327384949
+  },
+  "frame_0005_obj_21.jpg": {
+    "matched_with": "frame_0005_obj_01.jpg",
+    "similarity": 0.8264718651771545
+  },
+  "frame_0005_obj_22.jpg": {
+    "matched_with": null,
+    "similarity": 0.7830629348754883
+  },
+  "frame_0005_obj_23.jpg": {
+    "matched_with": null,
+    "similarity": 0.7496306896209717
+  }
+}
