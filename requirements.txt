@@ -1,0 +1,7 @@
+torch=2.1.0
+torchvision
+ultralytics
+opencv-python
+numpy
+scipy
+tqdm
