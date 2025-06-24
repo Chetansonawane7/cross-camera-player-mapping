@@ -8,7 +8,7 @@ VIDEO_PATHS = {
     "broadcast": "broadcast.mp4",
     "tacticam": "tacticam.mp4"
 }
-MODEL_PATH = "best.pt"  # ✅ Everything in same folder
+MODEL_PATH = "best.pt"  
 CROP_DIR = "crops"
 CROP_SIZE = 224  # Resize for ResNet input
 
@@ -16,7 +16,7 @@ CROP_SIZE = 224  # Resize for ResNet input
 model = YOLO(MODEL_PATH)
 model.to("cpu")
 print(f"✅ Model Loaded: {MODEL_PATH}")
-print("📦 Classes:", model.model.names)  # This tells you what class IDs mean
+print("📦 Classes:", model.model.names)  
 
 # Create output folders
 os.makedirs(f"{CROP_DIR}/broadcast", exist_ok=True)
