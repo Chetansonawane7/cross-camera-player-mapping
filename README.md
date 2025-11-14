@@ -1,8 +1,7 @@
-# Cross-Camera Player Mapping – AI Intern Assignment
+# Cross-Camera Player Mapping 
 
 ## 👤 Author
 Chetan Sonawane  
-AI Intern Assignment – Liat.ai
 
 ## 🎯 Task: Cross-Camera Player Mapping
 Identify and consistently label players across two different camera feeds (`broadcast.mp4` and `tacticam.mp4`) of the same gameplay.
